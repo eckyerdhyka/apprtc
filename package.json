@@ -27,6 +27,6 @@
     "webrtc-adapter-test": "^0.2.5"
   },
   "engines": {
-    "node": "*"
-  }
+    "node": "4.1.1"
+  },
 }
